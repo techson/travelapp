@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.techson</string>
+                <string>com.hk3t.techson</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>TravelApp.ipa</string>
+                <string>Techson</string>
             </dict>
         </dict>
     </array>
